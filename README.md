@@ -45,3 +45,15 @@ notes: 1.完成系统首页index.html，删去原先登录login.html
          （3）支持学员进行个人信息的修改
        5.完成CNAME部署，访问地址：linnie.com.cn
 ---
+v1.5.0
+---
+v1.5.0
+updateBy:罗海涛，林涅
+updateTime:20201213
+updateContent:"合并1.4.0，升级v1.5.0,完成培训师用户的需求"
+notes: 
+       1.完成培训师的角色登录页面 
+       2.增加角色--培训师，其功能如下：
+         （1）支持培训师进行查看课程，完成录入成绩工作
+       3.完成CNAME部署，访问地址：linnie.com.cn
+---
