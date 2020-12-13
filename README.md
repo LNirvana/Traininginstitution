@@ -36,5 +36,7 @@ v1.4.0
 updateBy:林涅
 updateTime:20201213
 updateContent:"合并1.3.0，增加首页，并且完成学员用户的需求"
-notes:
+notes:1.完成系统首页index.html，删去原先登录login.html
+      2.
+
 
